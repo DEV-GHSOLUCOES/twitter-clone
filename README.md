@@ -7,5 +7,9 @@
  Banco de dados H2.
  Devtools.
  Thymeleaf.
+<<<<<<< HEAD
 				
 
+=======
+ 
+>>>>>>> branch 'master' of https://github.com/DevGuima/twitter-clone.git
